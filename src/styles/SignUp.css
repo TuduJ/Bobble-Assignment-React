@@ -1,0 +1,18 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: small;
+}
+
+.btn {
+  font-size: small;
+}
+
+#signupButton {
+  background: #51b2dd;
+  color: white;
+}
+
+a:link {
+  color: #51b2dd;
+}
+/*# sourceMappingURL=SignUp.css.map */
