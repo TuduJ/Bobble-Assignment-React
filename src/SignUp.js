@@ -5,6 +5,7 @@ import google from './Images/google.png';
 import logo from './Images/logo.png';
 
 
+
 export default class SignUp extends Component{
     render(){
         return(
